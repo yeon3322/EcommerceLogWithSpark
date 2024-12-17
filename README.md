@@ -1,7 +1,7 @@
 # EcommerceLogWithSpark
 Ecommerce에서 생성된 행동 로그를 Spark Java App을 통해 Hive 외부 테이블로 제공하는 프로젝트입니다.
 
-## Version and Prior preparation
+## Version & Prior preparation
 * JDK 1.8.0   
 * Maven 3.8.1
 * Spark 3.4.4
